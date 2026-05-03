@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://plantium.it/</loc>
+    <loc>https://borio9.github.io/plantium-landing/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://plantium.it/manuali/Manuale_Manutenzione.pdf</loc>
+    <loc>https://borio9.github.io/plantium-landing/manuali/Manuale_Manutenzione.pdf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://plantium.it/manuali/Manuale_Produzione.pdf</loc>
+    <loc>https://borio9.github.io/plantium-landing/manuali/Manuale_Produzione.pdf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

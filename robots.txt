@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://plantium.it/sitemap.xml
+Sitemap: https://borio9.github.io/plantium-landing/sitemap.xml
